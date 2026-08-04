@@ -1,3 +1,4 @@
+--Description: When this script receives a RemoteEvent from ReplicatedStorage, it gives three items (Boombox, Sign, and Apple) to the player. The event fires when a player who owns the Gamepass toggles the item activation button in the GUI.
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
 
