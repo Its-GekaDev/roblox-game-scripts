@@ -1,3 +1,4 @@
+--Description: Calculates dynamic fall damage based on the player's downward vertical velocity (AssemblyLinearVelocity.Y) upon landing (Enum.HumanoidStateType.Landed). The lethal speed threshold and damage scaling are customizable via NumberValue instances inside the script.
 local MaxVelocity = script:WaitForChild("MaxFallDistance")
 local MinVelocity = script:WaitForChild("MinimumFallDistance")
 
