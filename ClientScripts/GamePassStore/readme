@@ -1,0 +1,4 @@
+--[[
+    Description: Generic LocalScript reused across 3 distinct UI interfaces.
+    Handles visibility toggles, animations, and input checks modularly based on its parent container.
+--]]
