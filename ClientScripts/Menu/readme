@@ -1,0 +1,8 @@
+### 🖥️ Main Menu System (`MainMenuGui`)
+
+The main menu serves as the primary navigation hub for players upon joining, featuring four action buttons:
+
+* **Play:** Initiates player spawning and starts the main game loop.
+* **Settings:** Opens the user configuration menu (`SettingsGui`).
+* **Store:** Opens the monetization hub (`GamePassStore`) for GamePasses and items.
+* **In Development:** A placeholder button reserved for upcoming features.
